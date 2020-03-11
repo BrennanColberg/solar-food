@@ -6,6 +6,10 @@
 
 	--color-main: yellowgreen;
 	--color-main-dark: green;
+
+	--color-accent: rgb(74, 193, 233);
+	--color-accent-dark: rgb(45, 159, 197);
+
 	--color-gray: gray;
 
 	font-family: var(--body-font);
@@ -18,6 +22,14 @@ h4,
 h5,
 h6 {
 	font-family: var(--title-font);
+}
+
+a {
+	color: var(--color-accent);
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
 }
 
 main {
@@ -38,9 +50,8 @@ footer {
 }
 
 header {
-	a {
+	> a:hover {
 		text-decoration: none;
-		color: inherit;
 	}
 	.logo {
 		font-size: 15pt;
@@ -48,6 +59,8 @@ header {
 	nav {
 		margin: 2px 8px;
 		* {
+			text-decoration: none;
+			color: inherit;
 			margin: 0 3px;
 		}
 	}
