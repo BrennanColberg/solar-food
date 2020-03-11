@@ -1,0 +1,12 @@
+.logo {
+	font-family: var(--title-font);
+	text-transform: none;
+	text-decoration: none;
+	font-weight: bold;
+	.solar {
+		color: var(--color-main-dark);
+	}
+	.food {
+		color: var(--color-main);
+	}
+}

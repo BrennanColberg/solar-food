@@ -1,3 +1,11 @@
 import React from "react";
 
-export default _ => null;
+import Logo from "./Logo";
+
+export default _ => (
+	<>
+		<p>
+			&copy; <Logo /> {new Date().getFullYear()}.
+		</p>
+	</>
+);
