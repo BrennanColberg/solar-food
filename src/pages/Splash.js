@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default _ => (
 	<>
@@ -54,17 +55,10 @@ export default _ => (
 			Quod quidem iam fit etiam in Academia. Quod si ita sit, cur opera
 			philosophiae sit danda nescio. An est aliquid, quod te sua sponte
 			delectet? Quare obscurentur etiam haec, quae secundum naturam esse
-			dicimus, in vita beata;{" "}
-			<a href="http://loripsum.net/" target="_blank">
-				Age sane, inquam.
-			</a>{" "}
-			Quis suae urbis conservatorem Codrum, quis Erechthei filias non maxime
-			laudat?{" "}
-			<a href="http://loripsum.net/" target="_blank">
-				Dici enim nihil potest verius.
-			</a>{" "}
-			Levatio igitur vitiorum magna fit in iis, qui habent ad virtutem
-			progressionis aliquantum.{" "}
+			dicimus, in vita beata; <Link to="/">Age sane, inquam.</Link> Quis suae
+			urbis conservatorem Codrum, quis Erechthei filias non maxime laudat?{" "}
+			<Link to="/">Dici enim nihil potest verius.</Link> Levatio igitur vitiorum
+			magna fit in iis, qui habent ad virtutem progressionis aliquantum.{" "}
 		</p>
 	</>
 );
