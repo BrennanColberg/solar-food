@@ -26,19 +26,21 @@ export default () => (
     <p>
       Our first prototype was a geometrical and economic proof of concept for an
       aquaponics layout style known as NFT ("Nutrient Film Technique"). We
-      designed and built a plywood holder for 12' of 3" PVC tubing, measuring
+      designed and built a plywood holder for 40' of 3" PVC tubing, measuring
       water flow quantity and rate while assessing ways to lower build
       complexity for streamlining production (either for in-house manufacturing
       speed, or designing "kits" to sell). Its construction came out
       significantly under time <em>and</em> budget!
     </p>
     <p>
-      This also gave us a sense for placement and aesthetic concerns: knowing
-      exactly how big, ugly, and heavy such setups will be helps to confirm and
-      refine our value hypothesis, namely that most middle class suburbanites
-      have sufficient unused space on their property to install a non-intrusive
-      aquaponics system. We came away with even more questions than we went in
-      with, marking the experiment a solid success!
+      This also gave us a sense for placement and aesthetic concerns: How big{' '}
+      <em>does</em> our design turn out to be? What does it look like when
+      installed? Where could it be placed? How heavy is it? With this
+      information, we've been able to refine our value hypothesis, namely that
+      most middle class suburbanites have sufficient unused space on their
+      property to install a non-intrusive aquaponics system. We came away with
+      even more questions than we went in with, marking the experiment a solid
+      success!
     </p>
 
     <hr></hr>
@@ -50,8 +52,8 @@ export default () => (
       0.2, depending on timing) with a large (500 liter) fish tank and
       filtration system for the purpose of a full-scale functional demonstration
       (and grounds for learning). Design is complete, but construction is
-      forthcoming (due to being locked out of Home Depot as a "nonessential"
-      business during the COVID-19 pandemic).
+      forthcoming (due to being shut down as a "nonessential" business during
+      the COVID-19 pandemic).
     </p>
     <p>
       In theory, each such 500L tank will be able to support 2-3 growing units
