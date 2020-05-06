@@ -67,7 +67,7 @@ export default () => (
     </p>
 
     <h2>Prototype 0.2: NFT Growing Unit (#2)</h2>
-    <img href="/images/p0.2.png" alt="prototype 0.2"></img>
+    <img src="/images/p0.2.png" alt="prototype 0.2"></img>
     <p>
       P0.2 will be a second-iteration NFT plant holder improved with knowledge
       gained from P0.1. Among other things, we will eliminate an alternating ~1%
@@ -76,6 +76,19 @@ export default () => (
       by water flow testing on P0.1 after assembly. By removing this misguided
       design feature, all similarly-looking parts will be made interchangeable
       throughout the process; this should speed up assembly significantly!
+    </p>
+    <p>
+      Another gigantic time (and money) sink was the transition of water between
+      each tube; the options were to pay $12 per PVC U-bend, or drill holes and
+      cement our own small pipes. We did the latter, but it was painful (and the
+      pipes didn't have end-caps at the end). Instead, we've designed a
+      3D-printable end-cap-with-channel piece for this role!
+    </p>
+    <p>
+      P0.1 was slow to design and measure, being engineered in a composition
+      book while sitting on a recliner (with power tools running in the
+      background). Transitioning design to CAD has already slashed that time
+      overhead significantly!
     </p>
     <p>
       Like P1.1, P0.2 is fully designed but production is currently in limbo due
