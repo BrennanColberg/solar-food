@@ -4,9 +4,10 @@ import { Link } from 'react-router-dom'
 export default () => (
   <>
     <h1>
-      we design, create, and operate aquaponics systems for suburban backyards
-      so that middle-class families can get more passive income and fresh,
-      local, organic, low-carbon-footprint food year-round
+      we install and operate standardized aquaponics systems for suburban
+      backyards so that middle-class families can get more passive income and
+      the local community (families, groceries, restaurants) can have cheap,
+      fresh, organic, low-carbon-footprint food year-round
     </h1>
     <p>
       Think of what solar panels do: they take some latent real estate and turn
@@ -98,8 +99,8 @@ export default () => (
     <hr></hr>
 
     <p>
-      If you are interested in an installation or investing in our company,
-      please <Link to="/contact">contact us!</Link>
+      If you are interested in an installation, buying produce/fish, or
+      investing in our company, please <Link to="/contact">contact us!</Link>
     </p>
   </>
 )

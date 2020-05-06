@@ -2,10 +2,8 @@ import React from 'react'
 
 export default () => (
   <h1>
-    email us at{' '}
-    <a href="mailto:brennan.colberg@gmail.com">brennan.colberg@gmail.com</a>{' '}
-    and/or{' '}
-    <a href="mailto:saurav.pahadia@gmail.com">saurav.pahadia@gmail.com</a>{' '}
-    because we haven't set up G Suite yet
+    please <a href="mailto:brennan.colberg@gmail.com">email</a> or{' '}
+    <a href="sms:+12066583935">text</a> us if you have any questions
+    (investment, ordering, installations, etc)
   </h1>
 )
