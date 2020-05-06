@@ -67,6 +67,7 @@ export default () => (
     </p>
 
     <h2>Prototype 0.2: NFT Growing Unit (#2)</h2>
+    <img href="/images/p0.2.png" alt="prototype 0.2"></img>
     <p>
       P0.2 will be a second-iteration NFT plant holder improved with knowledge
       gained from P0.1. Among other things, we will eliminate an alternating ~1%
